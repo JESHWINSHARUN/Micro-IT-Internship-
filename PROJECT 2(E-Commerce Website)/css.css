@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home-end{
+    background-color: rgb(139, 80, 147);
+}
+.section3-end{
+    background-color: rgb(49, 89, 146);
+}
+.home-image1{
+    background-image: url('/Images/slider1.jpg');
+    padding: 100px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.no-border {
+    border: none;
+}
+.summer-image1{
+    background-image: url('/Images/section3.jpg');
+    padding: 130px 0px;background-size: cover;
+    background-repeat: no-repeat;
+}
+.arrival-end{
+    background-color: rgb(65, 86, 65);
+}
+.custom-btn {
+    background-color: #eeb4c9; /* Replace with your custom color */
+    border-radius: 0px;
+}
+
+.custom-btn:hover {
+    background-color: #e9bcd2; /* Replace with your custom hover color */
+}
+.no-border-radius{
+    border-radius: 0px;
+}
+.coprights{
+    background-color: black;
+}
+.side1{
+    background-image: url('/Images/side1.jpg');
+    padding: 100px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.side2{
+    background-image: url('/Images/side2.jpg');
+    padding: 100px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
